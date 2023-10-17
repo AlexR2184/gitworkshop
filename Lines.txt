@@ -6,23 +6,7 @@ fifth line
 sixth line
 seventh line
 seventh line
-[master 754cf4d] seventh line added
- Committer: Alex Roocroft <alexroocroft@tudelft.nl>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
-
-    git config --global --edit
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 1 file changed, 2 insertions(+)
 eight line
 EIGHTH LINE
 ninth line
-ninth line (mistake
-tenth line on B1
+tenth line (corrected)
